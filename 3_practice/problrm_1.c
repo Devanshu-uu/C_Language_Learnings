@@ -13,7 +13,7 @@ int main()
     scanf("%f", &core_3);
 
     float percent;
-    percent = (core_1 + core_2 + core_3) / 300 * 100 ;
+    percent = (core_1 + core_2 + core_3) / 3;
 
     if (core_1<33 || core_2<33 || core_3<33 )
     printf("You are fail. Ft- You not scored minimun 33 marks in individual subject");
