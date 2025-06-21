@@ -17,7 +17,7 @@ int main()
 
     if (core_1<33 || core_2<33 || core_3<33 )
     printf("You are fail. Ft- You not scored minimun 33 marks in individual subject");
-    
+      
     else if (percent>=40){
     printf("You Are passed ");
     }
