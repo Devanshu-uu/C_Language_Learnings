@@ -6,7 +6,7 @@ int main(){
         if (i==5){
             // break; // exit this loop now
 
-            continue; // skip this iteration now
+            continue; // skip this iteration now and continue 
 
 
         }
