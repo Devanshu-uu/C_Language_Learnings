@@ -1,6 +1,6 @@
 <!-- 🎉 Fancy & Complete C Programming Journey README for Devanshu -->
 
-<<p align="center">
+<p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybm13bXcyenNtd2Z3YXBibnluZXNjbXp5MTZicmd6eWdja2I0dHBxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d5xWfCHe7P1e85ZYtu/giphy.gif" alt="Devanshu Coding Banner" width="100%" height="100" />
 </p>
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🏁 Status: <span style="color:limegreen">✅ Completed C Programming</span>
+## 🏁 Status: ✅ Completed C Programming
 
 ### 🔧 What I Learned
 - ✅ Basics: Variables, Data Types, Operators
@@ -48,6 +48,38 @@
 > 🔹 Structure-based Employee DB  
 > 🔹 Pointer Exercises  
 > 🔹 Pattern Generators  
+
+---
+
+## 📂 C Code Folder Overview
+
+Here are the folders where I’ve organized all my C practice topics:
+
+- 📁 [0](./0)
+- 📁 [Dynamic_Memory](./Dynamic_Memory)
+- 📁 [Functions_&_Recursion](./Functions_&_Recursion)
+- 📁 [Functions_&_Recursion_practice](./Functions_&_Recursion_practice)
+- 📁 [array](./array)
+- 📁 [array_practice](./array_practice)
+- 📁 [file_practice](./file_practice)
+- 📁 [file_read&write](./file_read&write)
+- 📁 [if_else_practice](./if_else_practice)
+- 📁 [input_data_types](./input_data_types)
+- 📁 [input_data_types_practice](./input_data_types_practice)
+- 📁 [loops](./loops)
+- 📁 [loops_practice](./loops_practice)
+- 📁 [pointers](./pointers)
+- 📁 [pointers_practice](./pointers_practice)
+- 📁 [project_2](./project_2)
+- 📁 [projects](./projects)
+- 📁 [strings](./strings)
+- 📁 [strings_practice](./strings_practice)
+- 📁 [struc_problems](./struc_problems)
+- 📁 [structures](./structures)
+- 📁 [variable&type_conversion](./variable&type_conversion)
+- 📁 [variable&type_conversion_practice](./variable&type_conversion_practice)
+
+> 💡 Click any folder to explore the actual `.c` code files directly on GitHub!
 
 ---
 
@@ -103,10 +135,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Devanshu-uu&icon=4&color=3" />
+  <img src="https://komarev.com/ghpvc/?username=Devanshu-uu&label=Profile+Views&color=brightgreen" alt="Profile Views" />
 </p>
-
-<!-- 💻 Optional Matrix Background Idea -->
-<!-- Consider adding a matrix-style GIF behind your GIF banner using custom HTML & SVG if you're using GPRM -->
 
 <!-- Proudly created with ❤️ using GPRM: https://gprm.itsvg.in -->
