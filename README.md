@@ -52,24 +52,16 @@
 - 📦 Building mini-projects using C/C++
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devanshu-uu&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devanshu-uu&theme=chartreuse-dark&hide_border=true" width="48%" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu-uu&layout=compact&theme=chartreuse-dark&hide_border=true" width="48%" />
 </p>
-
----
-
-## 💬 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
 ---
 
 ## 📬 Connect With Me
