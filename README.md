@@ -1,10 +1,17 @@
 <!-- 🎉 Fancy & Complete C Programming Journey README for Devanshu -->
 
+<<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybm13bXcyenNtd2Z3YXBibnluZXNjbXp5MTZicmd6eWdja2I0dHBxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d5xWfCHe7P1e85ZYtu/giphy.gif" alt="Devanshu Coding Banner" width="100%" height="100" />
+</p>
+
 <h1 align="center">🚀 Devanshu's C Programming Journey</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=450&lines=💻+C+Programming+Completed!;🧠+Mastered+Core+Concepts;📈+Ready+for+Next+Level!">
 </p>
+
+<!-- 🌊 SVG Wave Separator -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave3.svg" width="100%" />
 
 ---
 
@@ -52,6 +59,16 @@
 - 📦 Building mini-projects using C/C++
 
 ---
+
+<!-- 💬 Marquee Scrolling Text -->
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="7">
+    📚 Keep Learning · 💻 Keep Building · 🚀 Keep Growing · 🎯 Leveling Up with Code!
+  </marquee>
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -62,6 +79,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshu-uu&layout=compact&theme=chartreuse-dark&hide_border=true" width="48%" />
 </p>
+
+---
+
+## ✍️ Animated Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
 ---
 
 ## 📬 Connect With Me
@@ -79,5 +105,8 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Devanshu-uu&icon=4&color=3" />
 </p>
+
+<!-- 💻 Optional Matrix Background Idea -->
+<!-- Consider adding a matrix-style GIF behind your GIF banner using custom HTML & SVG if you're using GPRM -->
 
 <!-- Proudly created with ❤️ using GPRM: https://gprm.itsvg.in -->
